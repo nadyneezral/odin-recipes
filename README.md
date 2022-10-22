@@ -1,2 +1,2 @@
 # odin-recipes
-Test
+Okay so I deleted this repo for three times because what I typed previously in this README file didn't show up so I kept deleting and creating this again, trying to connect this file to GitHub,  then idk I just followed the instruction and boom. Finally. Phew. But seriously I almost gave up on you Odin ;-;
